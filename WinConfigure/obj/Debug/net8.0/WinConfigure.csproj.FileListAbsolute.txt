@@ -1,0 +1,4 @@
+C:\Users\Milkyway\RiderProjects\WinConfigure\WinConfigure\obj\Debug\net8.0\WinConfigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milkyway\RiderProjects\WinConfigure\WinConfigure\obj\Debug\net8.0\WinConfigure.AssemblyInfoInputs.cache
+C:\Users\Milkyway\RiderProjects\WinConfigure\WinConfigure\obj\Debug\net8.0\WinConfigure.AssemblyInfo.cs
+C:\Users\Milkyway\RiderProjects\WinConfigure\WinConfigure\obj\Debug\net8.0\WinConfigure.csproj.CoreCompileInputs.cache
